@@ -40,6 +40,7 @@ This repository contains a list of curated books that are suitable for full-stac
 - Database Design for Mere Mortals by Michael J. Hernandez
 - Essential SQLAlchemy by Jason Myers
 - MongoDB: The Definitive Guide by Kristina Chodrow
+- MongoDB in Action by Kyle Banker
 - PostgreSQL Official Documentation
 - Redis by Jay A. Kreibich
 - SQL Antipatterns by Bill Karwin
